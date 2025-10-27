@@ -1,0 +1,9 @@
+Resultados del análisis de secuencia DNA
+DNA: ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG
+Proteína: MAIVMGR*KGAR*
+
+Motivo	Posición (índice)
+------------------------------
+ATG	0
+GCGG	No encontrado
+TGG	1
